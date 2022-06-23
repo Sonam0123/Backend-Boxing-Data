@@ -1,0 +1,90 @@
+[
+    {
+        "image" : "https://boxrec.com/media/images//thumb/f/fa/MannyPacquiao1.jpg/250px-MannyPacquiao1.jpg",
+        "name": "Manny Pacquiao",
+        "stance": "Southpaw",
+        "wins": 62,
+        "losses": 8,
+        "knockouts": 39  
+    },
+    {
+        "image" : "https://boxrec.com/media/images//thumb/1/1a/FloydMayweatherHeadshot3.jpg/250px-FloydMayweatherHeadshot3.jpg",
+        "name": "Floyd Mayweather Jr",
+        "stance": "Orthodox",
+        "wins": 50,
+        "losses": 0,
+        "knockouts": 27  
+    },
+    {
+        "image" : "https://boxrec.com/media/images//thumb/9/9c/Roberto_Duran1.JPG/250px-Roberto_Duran1.JPG",
+        "name": "Roberto Duran",
+        "stance": "Orthodox",
+        "wins": 103,
+        "losses": 16,
+        "knockouts": 70  
+    },
+    {
+        "image" : "https://boxrec.com/media/images/thumb/e/e6/Salvador_Sanchez.jpg/200px-Salvador_Sanchez.jpg",
+        "name": "Salvador Sanchez",
+        "stance": "Orthodox",
+        "wins": 44,
+        "losses": 1,
+        "knockouts": 32  
+    },
+    {
+        "image" : "https://boxrec.com/media/images/thumb/c/c5/628407.jpeg/200px-628407.jpeg",
+        "name": "Naoya Inoue",
+        "stance": "Orthodox",
+        "wins": 23,
+        "losses": 0,
+        "knockouts": 20  
+    },
+    {
+        "image" : "https://boxrec.com/media/images/thumb/4/43/Ali_480938006.jpg/200px-Ali_480938006.jpg",
+        "name":"Muhammad Ali",
+        "stance": "Orthodox",
+        "wins": 56,
+        "losses": 5,
+        "knockouts": 37  
+    },
+    {
+        "image" : "https://boxrec.com/media/images/thumb/6/6e/Camacho163601995.jpg/200px-Camacho163601995.jpg",
+        "name": "Hector Camacho",
+        "stance": "Southpaw",
+        "wins": 79,
+        "losses": 6,
+        "knockouts": 38  
+    },
+    {
+        "image" : "https://boxrec.com/media/images/thumb/d/da/Aaron_Pryor-U821761-27.jpg/200px-Aaron_Pryor-U821761-27.jpg",
+        "name": "Aaron Pryor",
+        "stance": "Orthodox",
+        "wins": 39,
+        "losses": 1,
+        "knockouts": 35  
+    },
+    {
+        "image" : "https://boxrec.com/media/images/thumb/3/35/1988_Sugar_Ray_Leonard.JPG/200px-1988_Sugar_Ray_Leonard.JPG",
+        "name": "Ray Leonard",
+        "stance": "Orthodox",
+        "wins": 36,
+        "losses": 3,
+        "knockouts": 25  
+    },
+    {
+        "image" : "https://boxrec.com/media/images/thumb/c/c8/Marvin_Hagler.jpeg/200px-Marvin_Hagler.jpeg",
+        "name": "Marvin Hagler",
+        "stance": "Southpaw",
+        "wins": 62,
+        "losses": 2,
+        "knockouts": 52  
+    },
+    {
+        "image" : "https://boxrec.com/media/images/thumb/f/fb/Thomas_Hearns.jpeg/200px-Thomas_Hearns.jpeg",
+        "name": "Thomas Hearns",
+        "stance": "Orthodox",
+        "wins": 61,
+        "losses": 5,
+        "knockouts": 48  
+    }
+]
