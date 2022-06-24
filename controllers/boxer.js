@@ -9,7 +9,7 @@ router.get("/", (req, res) => {
 })
 
 router.get("/:name", (req, res) => {
-    Boxer.find({name: req.params.name})
+    Boxer.findOne({name: req.params.name})
     .then(boxer => res.json(boxer))
 })
 
@@ -21,16 +21,10 @@ router.post("/", (req, res) => {
     })
 })
 
-router.put('/:name', (req, res) => {
+router.put('/:id', (req, res) => {
     Boxer.findOneAndUpdate(
-        {name:req.body.name},
-        {
-          name: req.body.name,
-          wins: req.body.wins,
-          losses: req.body.losses,
-          knockouts: req.body.knockouts,
-          image: req.body.image,
-        },
+        {_id: req.params.id},
+        req.body,
         {new: true})
         .then(boxer => {
             res.json(boxer)

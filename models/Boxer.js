@@ -9,5 +9,4 @@ const boxerSchema = new Schema({
   losses: Number,
   knockouts: Number
 })
-
 module.exports = mongoose.model('Boxer', boxerSchema)
